@@ -68,7 +68,7 @@ python src/webcam_detect.py --model runs/detect/train/weights/best.pt --device a
 
 ### 打包为可执行文件
 
-将程序打包为 exe 文件，方便外行人使用：
+将程序打包为 exe 文件，便于使用：
 
 ```bash
 # 安装打包工具

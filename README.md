@@ -108,7 +108,7 @@ cd dist/YOLOv8Webcam
 ## 项目结构
 
 ```
-YOLOV8/
+YOLOV8_webcam_detect/
 ├── src/
 │   ├── webcam_detect.py          # 主检测程序
 │   └── generate_synthetic_targets.py  # 标靶数据集生成器

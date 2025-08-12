@@ -1,0 +1,2 @@
+# YOLOv8_webcam_detect
+YOLOv8_webcam_detect实时检测
